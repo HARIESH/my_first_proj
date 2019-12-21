@@ -1,0 +1,108 @@
+[
+  {
+    "id": "post_card",
+    "profile_picture": "image_url",
+    "user_name": "Will Smith",
+    "last_visited": "2019-11-07T23:28:56",
+    "description": "What is the best thing to do when you have a hole in a boat and water is leaking inside? Make another hole to drain the water.",
+    "likes": {
+      "total_likes_count": 20,
+      "liked_by": [
+        "image_url_1",
+        "image_url_2",
+        "image_url_3"
+      ]
+    },
+    "comments": 20
+  },
+  {
+    "id": "post_card",
+    "profile_picture": "image_url",
+    "user_name": "John",
+    "last_visited": "2019-11-07T23:28:56",
+    "media_file": "media_url"
+  },
+  {
+    "id": "post_card",
+    "profile_picture": "image_url",
+    "user_name": "Ram",
+    "last_visited": "2019-11-07T23:28:56",
+    "questions": [
+      {
+        "question_title": "Best actor of 2019",
+        "options": [
+          {
+            "actor": "Kamal",
+            "actor_count": 30
+          },
+          {
+            "actor": "Vijay Sethupathi",
+            "actor_count": 28
+          },
+          {
+            "actor": "Karthi",
+            "actor_count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "post_card",
+    "profile_picture": "image_url",
+    "user_name": "Ram",
+    "last_visited": "2019-11-07T23:28:56",
+    "questions": [
+      {
+        "question_title": "Best actor of 2019",
+        "options": [
+          {
+            "actor": "Kamal",
+            "actor_count": 30
+          },
+          {
+            "actor": "Vijay Sethupathi",
+            "actor_count": 28
+          },
+          {
+            "actor": "Karthi",
+            "actor_count": 25
+          }
+        ],
+        "main_comment": [
+          {
+            "profile_image": "image_url",
+            "user_name": "Smith",
+            "likes_count": 30,
+            "description":"What is the best thing to do when you have a hole in a boat and water is leaking inside? Make another hole to drain the water.",,
+            "sub_comment": [
+              {
+                "user_image": "image_url",
+                "name": "Bran",
+                "description": "What is the best thing to do when you have a hole in a boat and water is leaking inside? Make another hole to drain the water.",
+              },
+              {
+                "user_image": "image_url",
+                "name": "Kevin",
+                "description": "What is the best thing to do when you have a hole in a boat and water is leaking inside? Make another hole to drain the water.",
+              }
+            ]
+          },
+          {
+            "profile_image": "image_url",
+            "user_name": "Jon",
+            "likes_count": 30,
+            "description": "What is the best thing to do when you have a hole in a boat and water is leaking inside? Make another hole to drain the water.",
+            "sub_comment": [
+              {
+                "user_image": "image_url",
+                "name": "Bran",
+                "description": "What is the best thing to do when you have a hole in a boat and water is leaking inside? Make another hole to drain the water.",
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
